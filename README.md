@@ -1,6 +1,7 @@
 # Professional_README_Generator
 
 ### URL : https://github.com/pgurung95/Professional_README_Generator
+### Walkthrough video: https://drive.google.com/file/d/1fNC-chWSFd5f9bwu6if7m8TyApEIUAV_/view
 
 ## Description
 A command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package. 
